@@ -1,8 +1,8 @@
 {
-  "name": "single-spa-react-app",
+  "name": "single-spa-react",
   "version": "0.1.4",
   "description": "React application with two example pages for be included in a single-spa application as registered app.",
-  "main": "dist/single-spa-react-app.js",
+  "main": "dist/single-spa-react.js",
   "dependencies": {
     "react": "16.12.0",
     "react-dom": "16.12.0",
@@ -16,14 +16,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jualoppaz/single-spa-react-app.git"
+    "url": "git+https://github.com/Will-wpl/single-spa-react.git"
   },
-  "author": "Juan Manuel López Pazos",
+  "author": "PeiLong Wang",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jualoppaz/single-spa-react-app/issues"
+    "url": "https://github.com/Will-wpl/single-spa-react/issues"
   },
-  "homepage": "https://github.com/jualoppaz/single-spa-react-app#readme",
+  "homepage": "https://github.com/Will-wpl/single-spa-react#readme",
   "browserslist": {
     "production": [
       ">0.2%",
