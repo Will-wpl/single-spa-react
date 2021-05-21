@@ -2,9 +2,9 @@ import React from 'react';
 
 const List = () => (
   <div>
-    <h2>List page</h2>
+    <h2>喜欢 React</h2>
     <p>
-      This is the initial page. You'll see this page when navigate to React section from navbar.
+      比较喜欢做react,jsx自由度很强，模版与控制器在一起
     </p>
   </div>
 );
